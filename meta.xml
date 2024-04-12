@@ -1,0 +1,5 @@
+<meta>
+  <info author="RushCuttle" type="script" name="Recoil" version="1.0.0"/>
+  <script src="configuration.lua" type="client" cache="false"/>
+  <script src="c_Recoil.lua" type="client" cache="false"/>
+</meta>
